@@ -1,3 +1,4 @@
+print("Welcom to my program")
 user_input = int(input("Enter a nubmer: "))
 
 if user_input % 2 == 0:
